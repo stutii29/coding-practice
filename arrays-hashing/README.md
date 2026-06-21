@@ -32,7 +32,7 @@ treat it as O(1) for interview purposes unless asked about it directly.
 
 | File | Pattern | Difficulty |
 |---|---|---|
-| `[two_sum.py](https://leetcode.com/problems/two-sum/editorial/)` | Complement lookup | Easy |
+| [two_sum.py](https://leetcode.com/problems/two-sum/editorial/) | Complement lookup | Easy |
 | `[best_time_to_buy_and_sell_stock.py](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/editorial/)` | Single-pass min-tracking | Easy |
 | `[product_of_array_except_self.py](https://leetcode.com/problems/product-of-array-except-self/editorial/)` | Prefix/suffix products | Medium |
 | `[group_anagrams.py](https://leetcode.com/problems/group-anagrams/editorial/)` | Frequency counting as a hash key | Medium |
