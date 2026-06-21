@@ -37,7 +37,7 @@ treat it as O(1) for interview purposes unless asked about it directly.
 | [product_of_array_except_self](https://leetcode.com/problems/product-of-array-except-self/editorial/) | Prefix/suffix products | Medium |
 | [group_anagrams](https://leetcode.com/problems/group-anagrams/editorial/) | Frequency counting as a hash key | Medium |
 | [top_k_frequent_elements](https://leetcode.com/problems/top-k-frequent-elements/editorial/) | Frequency counting + bucket sort | Medium |
-| [longest_consecutive_seq](https://leetcode.com/problems/longest-consecutive-sequence/editorial/) | Set membership sequence detection | Medium |
+| [longest_consecutive_sequence](https://leetcode.com/problems/longest-consecutive-sequence/editorial/) | Set membership, sequence detection | Medium |
 
 Work top to bottom — each one reinforces the previous pattern before adding
 a twist.
